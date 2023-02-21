@@ -15,7 +15,7 @@ const Home = () => {
     });
   };
   const animationProjectsCount = () => {
-    animate(0, 50, {
+    animate(0, 29, {
       duration: 1,
       onUpdate: (v) => (projectCount.current.textContent = v.toFixed()),
     });
