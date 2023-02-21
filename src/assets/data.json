@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "date": "05/07/2022",
+      "title": "Music App",
+      "description": "This Music App is like SoundCloud in which you can listen Your favorite songs this is full stack mern project with database mongoDb. This app is with google authentication and technology used here is react , redux , node , mongodb",
+      "url": "https://reactone-nine.vercel.app",
+      "imgSrc": "https://cdn.dribbble.com/users/2281714/screenshots/15364137/media/49403eac811d5b273333b5635cdffa4c.png?compress=1&resize=400x300"
+    },
+
+    {
+      "date": "11/08/2022",
+      "title": "E-Commerce",
+      "description": "This E-commerce Website is a Full-Stack Mern app with Google authentication and stripe payment and also here you will be able to create and read , update , and delete Your products with images.",
+      "url": "https://react-video-app-eight.vercel.app",
+      "imgSrc": "https://idapgroup.com/blog/blog/wp-content/uploads/2017/09/tild3633-3336-4233-b761-353238323066__6638__ecommercemain.jpg"
+    },
+    {
+      "date": "15/09/2022",
+      "title": "Jobify",
+      "description": "A jobify is a Full-stack mern Project in which You can create, Read, update, and Delete Jobs , with Authentication",
+      "url": "https://react-crypto-app-pi.vercel.app",
+      "imgSrc": "https://i.ytimg.com/vi/Zo6DpwffKug/maxresdefault.jpg"
+    },
+
+    {
+      "date": "17/10/2022",
+      "title": "NETFLIX-CLONE",
+      "description": "So this is Netflix 2.0 it is clone of Netflix in which you can watch the trailers of Movies and here you will find its Cateogoires too",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "https://images.ctfassets.net/4cd45et68cgf/5y7i4snzpqkr2oHRCRAkN4/3f386378a409fec422ba26eb7e52112f/Android_Collage_1920x1080_Vietnam_Vi.jpg"
+    },
+    {
+      "date": "27/10/2022",
+      "title": "WHATSAPP-CLONE",
+      "description": "This is a whatsapp clone which is chat app technologies here used is react and firebase and socket.io with user Authentication",
+      "url": "/",
+      "imgSrc": "https://play-lh.googleusercontent.com/jwHnfMSqp3IryT21mXZ8TII8B73ztrmqPBcGRftQ36zdpPW-MrnAvLe_nvyHAflWiw9T"
+    },
+    {
+      "date": "20/4/2021",
+      "title": "NEWS-APP",
+      "description": "This app is build in react where you can read news with different categories like sports , business e.t.c",
+      "url": "/",
+      "imgSrc": "https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png"
+    }
+  ]
+}
